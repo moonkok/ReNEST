@@ -1,0 +1,69 @@
+{
+  "1719300559453.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1719300559453.png",
+    "properties": {
+      "filename": "1719300559453.png",
+      "originalName": "mark.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1719300559453.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1719851655662.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1719851655662.png",
+    "properties": {
+      "filename": "1719851655662.png",
+      "originalName": "engineer.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1719851655662.png",
+      "inlineSvg": false
+    }
+  },
+  "1719929856901.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1719929856901.png",
+    "properties": {
+      "filename": "1719929856901.png",
+      "originalName": "affiliate-marketing.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1719929856901.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1719929931317.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1719929931317.png",
+    "properties": {
+      "filename": "1719929931317.png",
+      "originalName": "boxes.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1719929931317.png",
+      "inlineSvg": false
+    }
+  },
+  "1719929981765.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1719929981765.png",
+    "properties": {
+      "filename": "1719929981765.png",
+      "originalName": "mental-health.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1719929981765.png",
+      "inlineSvg": false
+    }
+  },
+  "1719930015509.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1719930015509.png",
+    "properties": {
+      "filename": "1719930015509.png",
+      "originalName": "accounts.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1719930015509.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1719930071397.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1719930071397.png",
+    "properties": {
+      "filename": "1719930071397.png",
+      "originalName": "administrative.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1719930071397.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  }
+}

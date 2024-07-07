@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({sourceLabel:"Origine",sourceDescript:"Una mappa Web o una Web scene, o una qualsiasi combinazione delle due.",showBaseMap:"Mostra legende mappa di base",cardStyle:"Utilizzare lo stile scheda"})}}}));
